@@ -1,0 +1,2 @@
+# bpgm
+blog templet
